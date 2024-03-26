@@ -1,0 +1,3 @@
+# cmake file for BSIDES RP2040
+set(PICO_BOARD pico_w)
+# list(APPEND  PICO_BOARD_HEADERS_DIRS ${MICROPY_BOARD_DIR})

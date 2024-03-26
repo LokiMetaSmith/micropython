@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Battery Charging",
+        "Dual-core",
+        "External Flash",
+        "JST-SH",
+        "RGB LED",
+        "USB-C"
+    ],
+    "images": [
+        "4884-06.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "BSIDES RP2040",
+    "thumbnail": "",
+    "url": "",
+    "vendor": ""
+}
